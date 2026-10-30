@@ -1,5 +1,5 @@
 {
-  "name": "dsh-balance-view",
+  "name": "@president_h_999/dsh-balance-view",
   "version": "0.1.0",
   "description": "把 DSH 的 DeepSeek 账号余额定时写成本地 JSON 并开一个只读接口，方便脚本、插件或机器人随时查余额",
   "keywords": ["dsh", "dsh-plugin", "deepseek-harness", "balance"],
